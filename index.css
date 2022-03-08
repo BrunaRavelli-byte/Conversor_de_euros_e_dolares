@@ -1,0 +1,21 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    
+    background-size: 100%;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+
+.one, .two {
+    color: black;
+}
+.Conteiner, .conteiner {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+  }
